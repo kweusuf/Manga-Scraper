@@ -1,3 +1,4 @@
 selenium==3.141.0
 img2pdf==0.3.6
 natsort	
+pillow>=8.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
